@@ -17,6 +17,9 @@
 5. Music Scores
 
 Verovio https://www.verovio.org/index.xhtml
+
 abcjs https://paulrosen.github.io/abcjs/
+
 alphatab https://www.alphatab.net/
+
 vexflow https://github.com/0xfe/vexflow
