@@ -2,6 +2,7 @@
 
 ### 1. Speech/Singing Synthesis
 
+- Sinsy-NG https://github.com/GloomyGhost-MosquitoSeal/Sinsy-NG
 
 ### 2. Audio Source Separation
 
