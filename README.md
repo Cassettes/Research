@@ -24,3 +24,5 @@
 - alphatab https://www.alphatab.net/
 
 - vexflow https://github.com/0xfe/vexflow
+
+- guido https://github.com/grame-cncm/guidoeditorweb
