@@ -6,6 +6,7 @@
 
 ### 2. Audio Source Separation
 
+- Spleeter https://github.com/deezer/spleeter
 
 ### 3. AI Composition
 
