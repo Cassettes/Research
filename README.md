@@ -6,7 +6,7 @@
 
 - realtime voice cloning https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
-- mellotron https://github.com/NVIDIA/mellotron
+- mellotron https://github.com/NVIDIA/mellotron (noteebook: https://colab.research.google.com/drive/19CQhcXhUQosyxEd9lQ2L0aDu0ycosD1z#scrollTo=8c7iJ0kuXULe)
 
 ### 2. Audio Source Separation
 
