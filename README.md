@@ -4,6 +4,10 @@
 
 - Sinsy-NG https://github.com/GloomyGhost-MosquitoSeal/Sinsy-NG
 
+- realtime voice cloning https://github.com/CorentinJ/Real-Time-Voice-Cloning
+
+- mellotron https://github.com/NVIDIA/mellotron
+
 ### 2. Audio Source Separation
 
 - Spleeter https://github.com/deezer/spleeter
