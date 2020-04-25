@@ -14,6 +14,8 @@
 
 ### 3. AI Composition
 
+https://www.ctolib.com/amp/affige-genmusic_demo_list.html?from=timeline&isappinstalled=0
+
 | Title       | code        | paper     | demo  |
 | ----------- | ----------- | --------- | ----- |
 | Pop Music Transformer | https://github.com/YatingMusic/remi | https://arxiv.org/abs/2002.00212 | https://vibertthio.com/transformer/ |
