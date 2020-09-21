@@ -8,6 +8,8 @@
 
 - mellotron https://github.com/NVIDIA/mellotron (notebook: https://colab.research.google.com/drive/19CQhcXhUQosyxEd9lQ2L0aDu0ycosD1z#scrollTo=8c7iJ0kuXULe)
 
+- Lyrics Generation https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation
+
 ### 2. Audio Source Separation
 
 - Spleeter https://github.com/deezer/spleeter
